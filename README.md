@@ -1,2 +1,2 @@
-# vgg_keras
+# VGG
 VGG network built with Keras.
